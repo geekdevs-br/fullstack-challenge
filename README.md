@@ -1,6 +1,6 @@
 ![Geek Devs](https://geekdevs.com.br/images/logo.png 'GeekDevs')
 
-# Geek Devs FRONT-END desafio para team frontend
+# Geek Devs FRONT-END desafio para team fullstack
 
 **Geek Devs**: Somos uma fábrica de software focada em engenharia e qualidade com a utilização de metodologias ágeis. Transformamos ideias em código.
 
@@ -107,7 +107,7 @@ Sugerimos uma estrutura para a REST da seguinte forma.
       "id": 1,
       "tiutle": "Title Course 1",
       "price" : 10.40,
-      "workland": 44,
+      "workload": 44,
       "lesson": 10,
       "author": "Name author 1",
       "year": 2020
@@ -116,7 +116,7 @@ Sugerimos uma estrutura para a REST da seguinte forma.
       "id": 2,
       "tiutle": "Title Course 2",
       "price" : 1.50,
-      "workland": 44,
+      "workload": 44,
       "lesson": 20,
       "author": "Name author 2",
       "year": 2020
@@ -125,7 +125,7 @@ Sugerimos uma estrutura para a REST da seguinte forma.
       "id": 3,
       "tiutle": "Title Course 3",
       "price" : 1.50,
-      "workland": 44,
+      "workload": 44,
       "lesson": 20,
       "author": "Name author 3",
       "year": 2020
@@ -142,7 +142,7 @@ Sugerimos uma estrutura para a REST da seguinte forma.
           "id": 1,
           "tiutle": "Title Course 1",
           "price" : 10.40,
-          "workland": 44,
+          "workload": 44,
           "lesson": 10,
           "author": "Name author 1",
           "year": 2020
@@ -151,7 +151,7 @@ Sugerimos uma estrutura para a REST da seguinte forma.
           "id": 3,
           "tiutle": "Title Course 3",
           "price" : 1.50,
-          "workland": 44,
+          "workload": 44,
           "lesson": 20,
           "author": "Name author 3",
           "year": 2020
